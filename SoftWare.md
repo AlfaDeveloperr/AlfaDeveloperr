@@ -18,7 +18,7 @@ beni de yazılımcılardan ayıran özelliklerinden bir tanesi öğrenmeye açı
 - **Backend Geliştirme**: Node,js, REST API  ,Python, Php
 - **Frontend Geliştirme**: HTML,CSS ,JS , jQuery ,React.js, Frameworks (Swiper,MUI,Boostrap), CSS Frameworks (Bootstrap, Tailwind) icon (Fontawesome,box-icons)
 - **Versiyon Kontrolü**: Git, GitHub 
-- **Platformlar-Araçlar**: WordPress, Wix ,Nicapge
+- **Platformlar-Araçlar**: WordPress, Wix ,Nicapage
 - **Sunucu Teknolojileri**: Apache , APPSERV(en çok kullandığım)
 
 ## 🎯 Hedefim
